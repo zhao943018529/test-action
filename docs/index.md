@@ -1,8 +1,8 @@
 ---
-title: Bruce FEES - 前端工程化多包管理最佳实践方案
+title: Ninja FEES - 前端工程化多包管理最佳实践方案
 order: 10
 hero:
-  title: Bruce FEES
+  title: Ninja FEES
   desc: 一套多功能【前端工程化多包管理】实践方案<br>APP应用🌐 / ICO图标🔥 / IMG图像🖼️ / LIB类库🔗 / PKG模块📦 / STD规范⚙️ / UI组件🎨 / US工具🛠️
   actions:
     - text: 从 bruce-app 开始
@@ -81,13 +81,11 @@ yarn add global @yangzw/bruce-xyz
 
 ---
 
-每个子包安装完毕请结合文档详情使用，有疑问请联系**JowayYoung**。
+每个子包安装完毕请结合文档详情使用，有疑问请联系**Ninja**。
 
 ## 反馈
 
-如有问题请到[Github Issues](https://github.com/JowayYoung/bruce/issues)留言或通过以下方式联系**JowayYoung**。
+如有问题请到[Github Issues](https://github.com/zhao943018529/test-action/issues)留言或通过以下方式联系**Ninja**。
 
 <div class="home-contact">
-	<img class="home-contact-item" src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/03bcc13d83524f9eb8a61a1cab0543af~tplv-k3u1fbpfcp-watermark.image">
-	<img class="home-contact-item" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f9a7e606f0ca4cf58c2262f6c16e3464~tplv-k3u1fbpfcp-watermark.image">
 </div>
